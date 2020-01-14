@@ -1,3 +1,3 @@
 Readme.md
 
-Version 1.2
+Version 1.3
